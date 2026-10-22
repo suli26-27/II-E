@@ -6,12 +6,115 @@ Frontend fejlesztés és tesztelés
 2026-10-21
 
 Kérdések: Találkoztak?
-  Node.js
-  JavaScript fetch() függvénnyel?
+  Node.js - 
+  JavaScript fetch() függvénnyel? AJAX
   Angular?
-  Java?
-  Java Swing
+
+
+https://github.com/oktat/tan
+
+https://www.nive.hu/
+
+Node.js
+node --version
+npm --version
 
 Codeevolution YouTube csatorna:
 Lejátszási lista: Angular Tutorial For Beginners
 https://www.youtube.com/playlist?list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ
+
+npm install --global resen
+res --version
+
+
+ng version
+ng v
+
+22.1.5
+
+npm install -g @angular/cli@22.1.5
+
+PowerShell
+Command Prompt - cmd
+
+VSCode, VSCodium
+
+__Angular projekt létrehozása__
+
+ng v
+
+ng new projektnev
+ng new app01
+
+dev/
+  |-II-E/
+    |-asztmob/
+    `-frontend/
+        `-2026-10-22/
+             |-app01
+
+code .
+
+Terminál nyitása:
+Ctrl + J
+
+Fejlesztői szerver indítása:
+ng serve --open
+ng serve
+
+ng s -o
+ng s
+
+https://szit.hu/download/peldak/css/
+https://szit.hu/download/peldak/css/kopasz-hegy.jpg
+
+Interpoláció
+{{nev}}
+
+Attribútum kötés
+<img [src]="kepUrl" alt=....>
+
+Események kötés
+Kattintás egy függvényhez/metódushoz
+<button (click)="valami()">Mehet</button>
+
+
+<img src="https://szit.hu/download/peldak/css/kopasz-hegy.jpg"
+alt="hegy"
+width="100">
+
+__A signal() függvény__
+
+Számláló
+   3
+[Növel]
+
+
+_Névtelen függvény_
+
+function valami() {}
+function() {}
+() => {}
+
+(par1) => {
+  consoel.log(par1)
+}
+par1 => {
+  console.log(par1)
+}
+
+par1 => console.log(par1)
+
+(par1, par1) => par1 + par2
+
+
+class Egy {
+  valami() {}
+}
+https://szit.hu/m/
+
+
+npm install
+ng serve --open
+
+
