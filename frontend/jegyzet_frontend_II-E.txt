@@ -113,7 +113,10 @@ class Egy {
 }
 https://szit.hu/m/
 
+VSCode indítása:
+code .
 
+Terminálban:
 npm install
 ng serve --open
 
