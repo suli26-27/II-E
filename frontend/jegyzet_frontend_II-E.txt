@@ -6,6 +6,7 @@ Frontend fejlesztés és tesztelés
 2026-10-21
 
 Kérdések: Találkoztak?
+  Node.js
   JavaScript fetch() függvénnyel?
   Angular?
   Java?
