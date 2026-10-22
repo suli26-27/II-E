@@ -10,7 +10,7 @@ Kérdések: Találkoztak?
   JavaScript fetch() függvénnyel? AJAX
   Angular?
 
-
+Tankönyv:
 https://github.com/oktat/tan
 
 https://www.nive.hu/
