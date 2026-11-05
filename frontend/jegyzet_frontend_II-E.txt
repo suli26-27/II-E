@@ -198,10 +198,64 @@ fruits = ['alma', 'körte', 'barack', 'szilva']
    }
 </ul>
 
+Ha valaki hazavisz
+  Törlni node_modules/
+
+Otthon:
+
+cd szelekt    (GUI)
+code .
+Terminál:
+npm install
+ng serve --open
+
 __Routing__
 
 route/
 ng new route
+
+https://devin.ai/
+  desktop
+  IDE
+
+Komponens létrehozása
+
+ng generate component egy-component
+ng generate component ketto-component
+ng generate component harom-component
+
+(
+  ng generate component egy
+  ng generate component egy --type component
+
+  class EgyComponet {
+  }
+  ng g c egy-component
+)
+
+
+import { Routes } from '@angular/router';
+import { EgyComponent } from './egy-component/egy-component';
+import { KettoComponent } from './ketto-component/ketto-component';
+import { HaromComponent } from './harom-component/harom-component';
+
+export const routes: Routes = [
+    { path: 'egy', component: EgyComponent },
+    { path: 'ketto', component: KettoComponent},
+    { path: 'harom', component: HaromComponent}
+];
+
+
+<router-outlet></router-outlet>
+
+ng serve --open
+ng s -o
+
+Legközelebb: 
+  Routing gyakorlat
+  
+
+
 
 
 
