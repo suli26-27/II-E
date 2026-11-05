@@ -120,4 +120,16 @@ Terminálban:
 npm install
 ng serve --open
 
+Következik:
+  ismétlés
+    projekt létrehozása
+    adatkötés, bootstrap
+    signal
+  Új anyag:
+    @if
+    modális ablak megjelenítése
+    @for
+    komponensek
+    útválasztás (Routing)
+    navigáció
 
