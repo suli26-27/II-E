@@ -133,3 +133,75 @@ Következik:
     útválasztás (Routing)
     navigáció
 
+====================
+
+2026-11-05
+
+__Vezérlési szerkezetek__
+
+_@if_
+
+valami: boolean = true
+
+@if(valami) {
+  <p>Valami</p>
+}
+
+@if(valami) {
+  <p>Valami</p>
+}@else {
+  <p>Más</p>
+}
+
+<p *ngIf="valami"></p>
+
+szelekt/
+ng new szelekt
+
+code .
+
+app.component.html   app.html
+app.component.ts     app.ts
+
+Terminál:
+Ctrl + J
+
+Fejlesztői szerver indítása:
+ng serve --open
+
+@if(jo_ido_van) {
+  <p>Jól vagyok</p>
+}@else {
+  <p>Morcos vagyok</p>
+}
+
+Bootstrap modális ablak
+5.x
+
+getbootstrap.com
+
+npm install bootstrap
+(néha: ng add bootstrap)
+
+Start > Google Chrome
+localhost:4200
+
+_@for_
+
+Listában vagy táblázatban jelenítünk adatokat.
+
+fruits = ['alma', 'körte', 'barack', 'szilva']
+
+<ul>
+  @for( fruit of fruits ; track fruit  ) {
+    <li>{{ fruit }}</li>
+   }
+</ul>
+
+__Routing__
+
+route/
+ng new route
+
+
+
