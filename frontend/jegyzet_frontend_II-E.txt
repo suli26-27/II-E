@@ -255,7 +255,49 @@ Legközelebb:
   Routing gyakorlat
   Szolgáltatás
   HttpClient
+==========================
 
+2026-11-19
+
+__Gyakorlás dolgozatra__
+
+Dolgozat 2026-12-03
+
+dolgozók
+humerweb
+
+ng new humerweb
+
+cd humerweb
+
+VSCode indítása:
+code .
+
+Terminál:
+Ctrl + J
+
+
+
+Komponens
+  home
+  employee
+  about
+
+(ng generate component home-component
+employee-list-component
+)
+
+ng g c home-component
+ng g c employee-component
+ng g c about-component
+
+ng serve --open
+ng s -o
+ng serve
+ng s
+npm start
+
+https://getbootstrap.com/
 
 
 
