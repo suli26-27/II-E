@@ -299,6 +299,8 @@ npm start
 
 https://getbootstrap.com/
 
-
+Legközelebb:
+  Dolgozatra készülés:
+  https://szit.hu/doku.php?id=oktatas:web:feladatok:kliens#feladat_0112
 
 
