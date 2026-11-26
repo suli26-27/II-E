@@ -5,4 +5,64 @@ Asztali- és mobilalkalmazások fejlesztése
 
 2026-11-26
 
-Java
+__Java__
+
+VSCode
+
+2026-11-26/
+
+code .
+
+3 féle Java programot
+
+2026-11-26/
+  |-hello/
+
+sortörést ír a végére:
+System.out.println("aaa");
+
+System.out.print("aaa");
+
+
+2026-11-26/
+  |-hello/
+  |-beker/
+
+__Gyakorlás dologzatra__
+
+szit.hu
+Oktatás > Programozás > Feladatok > Általános
+Bekérős feladatok 0301-től 0400-ig vannak.
+Feladat 0301
+
+szit.hu/int
+
+https://szit.hu/int/doku.php?id=kuelker:dolgozat_koevetelmenyek
+
+.gitignore
+
+git init
+
+git status -u
+git add .
+git commit -m "Kész"
+
+Távoli szerverre feltöltés:
+git remote show origin
+
+Start > Hitel
+GitHub: github.com
+
+git remote add origin https://github.com/suli26-27/iie_terkup.git
+
+git push origin master
+
+
+szit.hu/int
+Legközelebb:
+  GUI
+
+
+
+
+
