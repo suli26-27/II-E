@@ -184,8 +184,43 @@ onClickExitButton
 
 com.example.MainController    (TriangleController)
 
-&&
+Console.WriterLine()
+Console.Error.WriteLine()
+
+Git
+gitk
+(Linuxon: sudo apt install gitk)
+Lapozó programból kilépés: Q
 
 
+git branch dev-1
+git checkout dev-1
+
+Regex
+.   egy darab akármilyen karakter
+\.
+
+Szünet...Vége
+
+Employee employe = new Employee()
+
+Math.pow(2,3)
+Math math = new Math();
+Math math2 = new Math();
+
+4
+szoktam mondani: 7
+
+
+VSCode
+Konstruktor készítés
+Ctrl + .
+
+Beadanó megoládásáról egy videó
+
+Legközelebb:
+  alert.setResizable(true)
+  További JavaFX kontrollok
+  Java fájlkezeléssel
 
 
