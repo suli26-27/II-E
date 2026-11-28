@@ -173,10 +173,18 @@ git config --global user.email
 
 Szünet...Vége
 
+baseField
+heightField
+areaField
 
+onClickCalcButton
+onClickResetButton
+onClickAboutButton
+onClickExitButton
 
+com.example.MainController    (TriangleController)
 
-
+&&
 
 
 
