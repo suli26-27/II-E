@@ -219,6 +219,7 @@ Ctrl + .
 Beadanó megoládásáról egy videó
 
 Legközelebb:
+  iie_triangle befejezése
   alert.setResizable(true)
   További JavaFX kontrollok
   Java fájlkezeléssel
