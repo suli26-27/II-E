@@ -153,7 +153,25 @@ triangle/
 mainScene.fxml
 MainController.java
 
+Git
+git --version
 
+prompt $$ 
+
+git init
+
+Létrehoztam: .gitignore
+
+target/
+*.class
+*.jar
+
+git status -u
+
+git config --global user.name 
+git config --global user.email
+
+Szünet...Vége
 
 
 
