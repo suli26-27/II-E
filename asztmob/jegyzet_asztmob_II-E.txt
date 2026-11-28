@@ -98,7 +98,60 @@ VSCode milyen Java-t használ
 F1 > Configure Java runtime
 
 
+Scene Builder
+https://openjfx.io/
 
+dpkg sjkkdf
+valami.deb
+apt
+
+rpm valami.rpm
+
+Be kell lépni a ~/install
+sudo dpkg -i SceneBuilder-27.0.0.deb
+
+
+Windows:
+winget install -e --id Gluon.SceneBuilder
+
+Windows:
+c:\Users\janos\AppData\Local\SceneBuilder\SceneBuilder.exe
+
+Linux:
+/opt/scenebuilder/bin/SceneBuilder
+
+F1 > Configure Scene Builder path
+
+mainScene.fxml
+primary.fxml
+
+Pane
+
+Szünet ... vége
+
+
+onClickToggleButton() {}
+onClickBackButton() {}
+
+
+com.example.MainController
+
+MainController.java
+
+Importálás:
+Kattintok a @FXML után
+Ctrl + Space
+
+fx:id: titleLabel
+
+__JavaFX gyakorlat__
+
+Háromszög területszámítás
+
+triangle/
+
+mainScene.fxml
+MainController.java
 
 
 
