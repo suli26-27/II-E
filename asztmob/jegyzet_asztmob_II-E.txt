@@ -62,6 +62,50 @@ szit.hu/int
 Legközelebb:
   GUI
 
+====================
+
+2026-11-28
+
+__GUI készítés__
+
+Be kell környezeti változót
+JAVA_HOME
+
+Windows:
+CMD
+echo %JAVA_HOME%
+
+Linux
+terminal
+echo $JAVA_HOME
+
+Hova lett telepítve a Java JDK
+C:\Program Files\Java\jdk_25
+
+apt install
+OpenJDK
+Oracle
+
+Total Commander, Double Commander
+
+Maven 
+
+JavaFX - Maven
+
+F1 > Create Java Project > JavaFX
+
+VSCode milyen Java-t használ
+F1 > Configure Java runtime
+
+
+
+
+
+
+
+
+
+
 
 
 
